@@ -1,0 +1,11 @@
+{
+  "name": "parcel-css-layer-import-repro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "browserslist": "last 1 Chrome version",
+  "dependencies": {
+    "parcel": "2.6.0"
+  }
+}
